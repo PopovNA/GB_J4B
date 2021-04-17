@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: gb.j4b.lesson_6.catch_the_drop.GameWindow
+
